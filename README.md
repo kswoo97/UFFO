@@ -10,7 +10,7 @@
 - **[Detail]** We present model code and running code for UFFO under both sequential and static settings.
 
 ### Datasets
-- **[Source]** We use four Amazon 2023 review datasets [1]: (1) Sports & Outdoors, (2) Toys & Games, (3) Beauty & Personal Care, and (4) Arts, Crafts, & Sewing.
+- **[Source]** We use four Amazon 2023 review datasets [1]: (1) Sports & Outdoors, (2) Toys & Games, (3) Beauty & Personal Care, and (4) Arts, Crafts, & Sewing. 
 - **[Preprocessing]** We use the preprocessed version of these datasets from [2].
 - **[Link]** You need to download the files in [LINK](https://www.dropbox.com/scl/fo/dx104zyjye68qkpqlo4yt/AFm_wwrM2hHH6zSwZfK-21U?rlkey=25yogmq65wovkkrn9jk9ws132&st=qpkf04v4&dl=0) and locate them in ``./datasets`` directory.
 
