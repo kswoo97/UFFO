@@ -41,5 +41,3 @@ python3 model_uf2o_stat.py --dataset sports_outdoors --device cuda:0 --lr 0.001 
 ### References
 - [1] Hou et al., Bridging Language and Items for Retrieval and Recommendation, arXiv 2024.
 - [2] Kim et al., Personalized Parameter-Efficient Fine-Tuning of Foundation Models for Multimodal Recommendation, The Web Conference, 2026.
-
-1
