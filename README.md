@@ -3,7 +3,7 @@
 ### Paper information
 - **[Title]** User-Adaptive Fusion of Multiple Foundation Models for Recommender Systems
 - **[Venue]** WSDM 2027 (Main Track)
-- **[Authors]** Sunwoo Kim, Hyunjin Hwang, Geon Lee, Kyungho Kim, Kijung Shin
+- **[Authors]** Sunwoo Kim, Hyunjin Hwang, Geon Lee, Kyungho Kim, Kijung Shin 
 
 ### Overview
 - **[TL;DR]** We present an implementation of UFFO, a user-adaptive score-level fusion of foundation models for recommendations.
